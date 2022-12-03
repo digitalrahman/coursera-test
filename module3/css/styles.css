@@ -1,0 +1,47 @@
+
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.brand-style {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+  font-weight: bold;
+  font-size: 24px; 
+}
+.navbar-collapse{
+  background:#eee;
+}
+
+.specialBackground{margin: 20px;}
+
+.navbar-default .navbar-brand {
+    color: #000;
+}
+.navbar-default .navbar-toggle {
+    border-color: #000;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #000;
+}
+.navbar-default {
+    background-color: #ddd;
+    border-color: #eee;
+}
+
+.contents{
+background-color: #DCDCDC ;
+
+}
+.nav>li>a {
+  text-align: center;
+}
+.navbar-default .navbar-nav>li>a {
+  color:black;
+
+
+}
+$grid-gutter-width: 1.5rem !default;
